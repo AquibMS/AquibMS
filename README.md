@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Frontend Projects**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **JavaScript, React.js, Technical Documentation, Email Writing & Cars**
 
