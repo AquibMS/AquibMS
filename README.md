@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aquibms" alt="aquibms" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Projects**
+- 🔭 I’m currently working on **Full stack Project**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Gen AI**
 
-- 💬 Ask me about **JavaScript, React.js, Technical Documentation, Email Writing & Cars**
+- 💬 Ask me about **Java, Spring Boot, Microservices, JavaScript, React.js, Technical Documentation, Email Writing & Cars**
 
 - 📫 How to reach me **shaikaquib1998@gmail.com**
 
